@@ -3,11 +3,24 @@ This workflow was build and designed to run on the OSG via the Pegasus workflow 
 
 # Usage
 ## Running the Workflow
-To run the workflow use:
+To run the workflow first update the configuration file `simulation_config.cfg` with the element, isotope, total number of events, and number of events per simulation.
+
+For example a 1e6 event 60Co simulation broken into 2e5 event simulations has the following configuration file: 
 ```
-./simulation_workflow.py
+z, a, total_events, events_per_sim
+27, 60, 1e6, 2e5
 ```
-in the parent workflow directory. Pegasus will look for all datafiles in the `inputs` directory and the exectuables in the `bin` directory.
+
+You can run more than one simulation in sequence by adding lines to the file. If you want to follow up the 60Co simulation with a 152Eu simulation using the same number of events the config file looks like: 
+```
+z, a, total_events, events_per_sim
+27, 60, 1e6, 2e5
+63, 152, 1e6, 2e5
+```
+Second run the simulations with the call 
+```
+./run_campaign.py
+```
 
 ## Data Files
 TODO: Update this section
