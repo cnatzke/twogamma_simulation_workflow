@@ -19,7 +19,7 @@ if [[ $# != 4 ]]; then
     help
     exit 1
 else
-    echo "/app/prepare_files.py -z $1 -a $2 -n $3"
+    /app/prepare_files.py -z $1 -a $2 -n $3
 
     # Renaming output files for better record keeping
     if [[ -e run_macro.mac ]]; then
