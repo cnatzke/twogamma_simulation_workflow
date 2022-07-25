@@ -22,6 +22,3 @@ All of the exectubale functions run on the exectution nodes during the workflow 
 
 # Output
 Pegasus handles all of the file transfers and data validation and transfers the output files to the remote server specified in the site catalog. Only the sorted files are transferred to the output site and done so in tarballs. It is up to the user to unpack the tarballs on the remote site.
-# twogamma_simulation_workflow
-# twogamma_simulation_workflow
-# twogamma_simulation_workflow

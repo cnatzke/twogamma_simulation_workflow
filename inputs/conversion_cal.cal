@@ -1,0 +1,1409 @@
+GRG01BN00A	{
+Type:      TGriffin
+Name:      GRG01BN00A
+Number:    0
+Address:   0x0000
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG01GN00A	{
+Type:      TGriffin
+Name:      GRG01GN00A
+Number:    0
+Address:   0x0001
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG01RN00A	{
+Type:      TGriffin
+Name:      GRG01RN00A
+Number:    0
+Address:   0x0002
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG01WN00A	{
+Type:      TGriffin
+Name:      GRG01WN00A
+Number:    0
+Address:   0x0003
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG02BN00A	{
+Type:      TGriffin
+Name:      GRG02BN00A
+Number:    0
+Address:   0x0004
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG02GN00A	{
+Type:      TGriffin
+Name:      GRG02GN00A
+Number:    0
+Address:   0x0005
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG02RN00A	{
+Type:      TGriffin
+Name:      GRG02RN00A
+Number:    0
+Address:   0x0006
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG02WN00A	{
+Type:      TGriffin
+Name:      GRG02WN00A
+Number:    0
+Address:   0x0007
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG03BN00A	{
+Type:      TGriffin
+Name:      GRG03BN00A
+Number:    0
+Address:   0x0008
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG03GN00A	{
+Type:      TGriffin
+Name:      GRG03GN00A
+Number:    0
+Address:   0x0009
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG03RN00A	{
+Type:      TGriffin
+Name:      GRG03RN00A
+Number:    0
+Address:   0x000a
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG03WN00A	{
+Type:      TGriffin
+Name:      GRG03WN00A
+Number:    0
+Address:   0x000b
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG04BN00A	{
+Type:      TGriffin
+Name:      GRG04BN00A
+Number:    0
+Address:   0x000c
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG04GN00A	{
+Type:      TGriffin
+Name:      GRG04GN00A
+Number:    0
+Address:   0x000d
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG04RN00A	{
+Type:      TGriffin
+Name:      GRG04RN00A
+Number:    0
+Address:   0x000e
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG04WN00A	{
+Type:      TGriffin
+Name:      GRG04WN00A
+Number:    0
+Address:   0x000f
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG05BN00A	{
+Type:      TGriffin
+Name:      GRG05BN00A
+Number:    0
+Address:   0x0010
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG05GN00A	{
+Type:      TGriffin
+Name:      GRG05GN00A
+Number:    0
+Address:   0x0011
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG05RN00A	{
+Type:      TGriffin
+Name:      GRG05RN00A
+Number:    0
+Address:   0x0012
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG05WN00A	{
+Type:      TGriffin
+Name:      GRG05WN00A
+Number:    0
+Address:   0x0013
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG06BN00A	{
+Type:      TGriffin
+Name:      GRG06BN00A
+Number:    0
+Address:   0x0014
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG06GN00A	{
+Type:      TGriffin
+Name:      GRG06GN00A
+Number:    0
+Address:   0x0015
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG06RN00A	{
+Type:      TGriffin
+Name:      GRG06RN00A
+Number:    0
+Address:   0x0016
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG06WN00A	{
+Type:      TGriffin
+Name:      GRG06WN00A
+Number:    0
+Address:   0x0017
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG07BN00A	{
+Type:      TGriffin
+Name:      GRG07BN00A
+Number:    0
+Address:   0x0018
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG07GN00A	{
+Type:      TGriffin
+Name:      GRG07GN00A
+Number:    0
+Address:   0x0019
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG07RN00A	{
+Type:      TGriffin
+Name:      GRG07RN00A
+Number:    0
+Address:   0x001a
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG07WN00A	{
+Type:      TGriffin
+Name:      GRG07WN00A
+Number:    0
+Address:   0x001b
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG08BN00A	{
+Type:      TGriffin
+Name:      GRG08BN00A
+Number:    0
+Address:   0x001c
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG08GN00A	{
+Type:      TGriffin
+Name:      GRG08GN00A
+Number:    0
+Address:   0x001d
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG08RN00A	{
+Type:      TGriffin
+Name:      GRG08RN00A
+Number:    0
+Address:   0x001e
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG08WN00A	{
+Type:      TGriffin
+Name:      GRG08WN00A
+Number:    0
+Address:   0x001f
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG09BN00A	{
+Type:      TGriffin
+Name:      GRG09BN00A
+Number:    0
+Address:   0x0020
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG09GN00A	{
+Type:      TGriffin
+Name:      GRG09GN00A
+Number:    0
+Address:   0x0021
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG09RN00A	{
+Type:      TGriffin
+Name:      GRG09RN00A
+Number:    0
+Address:   0x0022
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG09WN00A	{
+Type:      TGriffin
+Name:      GRG09WN00A
+Number:    0
+Address:   0x0023
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG10BN00A	{
+Type:      TGriffin
+Name:      GRG10BN00A
+Number:    0
+Address:   0x0024
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG10GN00A	{
+Type:      TGriffin
+Name:      GRG10GN00A
+Number:    0
+Address:   0x0025
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG10RN00A	{
+Type:      TGriffin
+Name:      GRG10RN00A
+Number:    0
+Address:   0x0026
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG10WN00A	{
+Type:      TGriffin
+Name:      GRG10WN00A
+Number:    0
+Address:   0x0027
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG11BN00A	{
+Type:      TGriffin
+Name:      GRG11BN00A
+Number:    0
+Address:   0x0028
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG11GN00A	{
+Type:      TGriffin
+Name:      GRG11GN00A
+Number:    0
+Address:   0x0029
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG11RN00A	{
+Type:      TGriffin
+Name:      GRG11RN00A
+Number:    0
+Address:   0x002a
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG11WN00A	{
+Type:      TGriffin
+Name:      GRG11WN00A
+Number:    0
+Address:   0x002b
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG12BN00A	{
+Type:      TGriffin
+Name:      GRG12BN00A
+Number:    0
+Address:   0x002c
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG12GN00A	{
+Type:      TGriffin
+Name:      GRG12GN00A
+Number:    0
+Address:   0x002d
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG12RN00A	{
+Type:      TGriffin
+Name:      GRG12RN00A
+Number:    0
+Address:   0x002e
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG12WN00A	{
+Type:      TGriffin
+Name:      GRG12WN00A
+Number:    0
+Address:   0x002f
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG13BN00A	{
+Type:      TGriffin
+Name:      GRG13BN00A
+Number:    0
+Address:   0x0030
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG13GN00A	{
+Type:      TGriffin
+Name:      GRG13GN00A
+Number:    0
+Address:   0x0031
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG13RN00A	{
+Type:      TGriffin
+Name:      GRG13RN00A
+Number:    0
+Address:   0x0032
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG13WN00A	{
+Type:      TGriffin
+Name:      GRG13WN00A
+Number:    0
+Address:   0x0033
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG14BN00A	{
+Type:      TGriffin
+Name:      GRG14BN00A
+Number:    0
+Address:   0x0034
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG14GN00A	{
+Type:      TGriffin
+Name:      GRG14GN00A
+Number:    0
+Address:   0x0035
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG14RN00A	{
+Type:      TGriffin
+Name:      GRG14RN00A
+Number:    0
+Address:   0x0036
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG14WN00A	{
+Type:      TGriffin
+Name:      GRG14WN00A
+Number:    0
+Address:   0x0037
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG15BN00A	{
+Type:      TGriffin
+Name:      GRG15BN00A
+Number:    0
+Address:   0x0038
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG15GN00A	{
+Type:      TGriffin
+Name:      GRG15GN00A
+Number:    0
+Address:   0x0039
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG15RN00A	{
+Type:      TGriffin
+Name:      GRG15RN00A
+Number:    0
+Address:   0x003a
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG15WN00A	{
+Type:      TGriffin
+Name:      GRG15WN00A
+Number:    0
+Address:   0x003b
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG16BN00A	{
+Type:      TGriffin
+Name:      GRG16BN00A
+Number:    0
+Address:   0x003c
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG16GN00A	{
+Type:      TGriffin
+Name:      GRG16GN00A
+Number:    0
+Address:   0x003d
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG16RN00A	{
+Type:      TGriffin
+Name:      GRG16RN00A
+Number:    0
+Address:   0x003e
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRG16WN00A	{
+Type:      TGriffin
+Name:      GRG16WN00A
+Number:    0
+Address:   0x003f
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS01BN00A	{
+Type:      TGriffinBgo
+Name:      GRS01BN00A
+Number:    0
+Address:   0x03e8
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS01GN00A	{
+Type:      TGriffinBgo
+Name:      GRS01GN00A
+Number:    0
+Address:   0x03e9
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS01RN00A	{
+Type:      TGriffinBgo
+Name:      GRS01RN00A
+Number:    0
+Address:   0x03ea
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS01WN00A	{
+Type:      TGriffinBgo
+Name:      GRS01WN00A
+Number:    0
+Address:   0x03eb
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS02BN00A	{
+Type:      TGriffinBgo
+Name:      GRS02BN00A
+Number:    0
+Address:   0x03f2
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS02GN00A	{
+Type:      TGriffinBgo
+Name:      GRS02GN00A
+Number:    0
+Address:   0x03f3
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS02RN00A	{
+Type:      TGriffinBgo
+Name:      GRS02RN00A
+Number:    0
+Address:   0x03f4
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS02WN00A	{
+Type:      TGriffinBgo
+Name:      GRS02WN00A
+Number:    0
+Address:   0x03f5
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS03BN00A	{
+Type:      TGriffinBgo
+Name:      GRS03BN00A
+Number:    0
+Address:   0x03fc
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS03GN00A	{
+Type:      TGriffinBgo
+Name:      GRS03GN00A
+Number:    0
+Address:   0x03fd
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS03RN00A	{
+Type:      TGriffinBgo
+Name:      GRS03RN00A
+Number:    0
+Address:   0x03fe
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS03WN00A	{
+Type:      TGriffinBgo
+Name:      GRS03WN00A
+Number:    0
+Address:   0x03ff
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS04BN00A	{
+Type:      TGriffinBgo
+Name:      GRS04BN00A
+Number:    0
+Address:   0x0406
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS04GN00A	{
+Type:      TGriffinBgo
+Name:      GRS04GN00A
+Number:    0
+Address:   0x0407
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS04RN00A	{
+Type:      TGriffinBgo
+Name:      GRS04RN00A
+Number:    0
+Address:   0x0408
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS04WN00A	{
+Type:      TGriffinBgo
+Name:      GRS04WN00A
+Number:    0
+Address:   0x0409
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS05BN00A	{
+Type:      TGriffinBgo
+Name:      GRS05BN00A
+Number:    0
+Address:   0x0410
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS05GN00A	{
+Type:      TGriffinBgo
+Name:      GRS05GN00A
+Number:    0
+Address:   0x0411
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS05RN00A	{
+Type:      TGriffinBgo
+Name:      GRS05RN00A
+Number:    0
+Address:   0x0412
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS05WN00A	{
+Type:      TGriffinBgo
+Name:      GRS05WN00A
+Number:    0
+Address:   0x0413
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS06BN00A	{
+Type:      TGriffinBgo
+Name:      GRS06BN00A
+Number:    0
+Address:   0x041a
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS06GN00A	{
+Type:      TGriffinBgo
+Name:      GRS06GN00A
+Number:    0
+Address:   0x041b
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS06RN00A	{
+Type:      TGriffinBgo
+Name:      GRS06RN00A
+Number:    0
+Address:   0x041c
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS06WN00A	{
+Type:      TGriffinBgo
+Name:      GRS06WN00A
+Number:    0
+Address:   0x041d
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS07BN00A	{
+Type:      TGriffinBgo
+Name:      GRS07BN00A
+Number:    0
+Address:   0x0424
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS07GN00A	{
+Type:      TGriffinBgo
+Name:      GRS07GN00A
+Number:    0
+Address:   0x0425
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS07RN00A	{
+Type:      TGriffinBgo
+Name:      GRS07RN00A
+Number:    0
+Address:   0x0426
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS07WN00A	{
+Type:      TGriffinBgo
+Name:      GRS07WN00A
+Number:    0
+Address:   0x0427
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS08BN00A	{
+Type:      TGriffinBgo
+Name:      GRS08BN00A
+Number:    0
+Address:   0x042e
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS08GN00A	{
+Type:      TGriffinBgo
+Name:      GRS08GN00A
+Number:    0
+Address:   0x042f
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS08RN00A	{
+Type:      TGriffinBgo
+Name:      GRS08RN00A
+Number:    0
+Address:   0x0430
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS08WN00A	{
+Type:      TGriffinBgo
+Name:      GRS08WN00A
+Number:    0
+Address:   0x0431
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS09BN00A	{
+Type:      TGriffinBgo
+Name:      GRS09BN00A
+Number:    0
+Address:   0x0438
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS09GN00A	{
+Type:      TGriffinBgo
+Name:      GRS09GN00A
+Number:    0
+Address:   0x0439
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS09RN00A	{
+Type:      TGriffinBgo
+Name:      GRS09RN00A
+Number:    0
+Address:   0x043a
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS09WN00A	{
+Type:      TGriffinBgo
+Name:      GRS09WN00A
+Number:    0
+Address:   0x043b
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS10BN00A	{
+Type:      TGriffinBgo
+Name:      GRS10BN00A
+Number:    0
+Address:   0x0442
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS10GN00A	{
+Type:      TGriffinBgo
+Name:      GRS10GN00A
+Number:    0
+Address:   0x0443
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS10RN00A	{
+Type:      TGriffinBgo
+Name:      GRS10RN00A
+Number:    0
+Address:   0x0444
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS10WN00A	{
+Type:      TGriffinBgo
+Name:      GRS10WN00A
+Number:    0
+Address:   0x0445
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS11BN00A	{
+Type:      TGriffinBgo
+Name:      GRS11BN00A
+Number:    0
+Address:   0x044c
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS11GN00A	{
+Type:      TGriffinBgo
+Name:      GRS11GN00A
+Number:    0
+Address:   0x044d
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS11RN00A	{
+Type:      TGriffinBgo
+Name:      GRS11RN00A
+Number:    0
+Address:   0x044e
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS11WN00A	{
+Type:      TGriffinBgo
+Name:      GRS11WN00A
+Number:    0
+Address:   0x044f
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS12BN00A	{
+Type:      TGriffinBgo
+Name:      GRS12BN00A
+Number:    0
+Address:   0x0456
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS12GN00A	{
+Type:      TGriffinBgo
+Name:      GRS12GN00A
+Number:    0
+Address:   0x0457
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS12RN00A	{
+Type:      TGriffinBgo
+Name:      GRS12RN00A
+Number:    0
+Address:   0x0458
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS12WN00A	{
+Type:      TGriffinBgo
+Name:      GRS12WN00A
+Number:    0
+Address:   0x0459
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS13BN00A	{
+Type:      TGriffinBgo
+Name:      GRS13BN00A
+Number:    0
+Address:   0x0460
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS13GN00A	{
+Type:      TGriffinBgo
+Name:      GRS13GN00A
+Number:    0
+Address:   0x0461
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS13RN00A	{
+Type:      TGriffinBgo
+Name:      GRS13RN00A
+Number:    0
+Address:   0x0462
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS13WN00A	{
+Type:      TGriffinBgo
+Name:      GRS13WN00A
+Number:    0
+Address:   0x0463
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS14BN00A	{
+Type:      TGriffinBgo
+Name:      GRS14BN00A
+Number:    0
+Address:   0x046a
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS14GN00A	{
+Type:      TGriffinBgo
+Name:      GRS14GN00A
+Number:    0
+Address:   0x046b
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS14RN00A	{
+Type:      TGriffinBgo
+Name:      GRS14RN00A
+Number:    0
+Address:   0x046c
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS14WN00A	{
+Type:      TGriffinBgo
+Name:      GRS14WN00A
+Number:    0
+Address:   0x046d
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS15BN00A	{
+Type:      TGriffinBgo
+Name:      GRS15BN00A
+Number:    0
+Address:   0x0474
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS15GN00A	{
+Type:      TGriffinBgo
+Name:      GRS15GN00A
+Number:    0
+Address:   0x0475
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS15RN00A	{
+Type:      TGriffinBgo
+Name:      GRS15RN00A
+Number:    0
+Address:   0x0476
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS15WN00A	{
+Type:      TGriffinBgo
+Name:      GRS15WN00A
+Number:    0
+Address:   0x0477
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS16BN00A	{
+Type:      TGriffinBgo
+Name:      GRS16BN00A
+Number:    0
+Address:   0x047e
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS16GN00A	{
+Type:      TGriffinBgo
+Name:      GRS16GN00A
+Number:    0
+Address:   0x047f
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS16RN00A	{
+Type:      TGriffinBgo
+Name:      GRS16RN00A
+Number:    0
+Address:   0x0480
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+GRS16WN00A	{
+Type:      TGriffinBgo
+Name:      GRS16WN00A
+Number:    0
+Address:   0x0481
+Digitizer: GRF16
+TimeOffset: 0
+Integration: 0
+}
+//====================================//
+
+

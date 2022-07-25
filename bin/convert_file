@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# source root & grsisort 
+source /software/root/bin/thisroot.sh
+source /software/GRSISort/thisgrsi.sh
+
+# run ntuple
+if ! /software/NTuple2EventTree/NTuple2EventTree -sf /softwares/NTuple2EventTree/Settings.dat -if $1; then
+    sleep 1m
+    exit 1
+fi
+
+sleep 1m
+exit 0
+

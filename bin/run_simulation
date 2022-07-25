@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# source geant4
+GEANT4_VERSION="geant4.10.07.p03"
+source /software/${GEANT4_VERSION}/bin/geant4.sh
+source /software/root/bin/thisroot.sh
+
+# run simulation
+/software/simulation/bin/Griffinv10 $1
+
+status=$?
+
+if [ $status -eq 0 ]; then 
+    echo "All is good"
+    mv g4out.root $2
+    exit 0
+else
+    echo "Something went wrong"
+    exit 1
+fi
