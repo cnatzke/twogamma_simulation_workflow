@@ -122,7 +122,7 @@ def create_workflow(args, submit_sim=True):
     ntuple = Transformation(
         name="ntuple",
         site="local",
-        pfn=TOP_DIR / "bin/convert_file",
+        pfn=TOP_DIR / "bin/convert_file.sh",
         is_stageable=True,
         arch=Arch.X86_64
     )
@@ -130,7 +130,7 @@ def create_workflow(args, submit_sim=True):
     merge = Transformation(
         name="merge",
         site="local",
-        pfn=TOP_DIR / "bin/merge",
+        pfn=TOP_DIR / "bin/merge.sh",
         is_stageable=True,
         arch=Arch.X86_64
     )
