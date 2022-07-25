@@ -16,7 +16,7 @@ def main():
         total_events = int(float(parent['total_events']))
         batch_events = int(float(parent['events_per_sim']))
 
-        run_command = f"./simulation_workflow.py -a {element} -z {isotope} -e {total_events} -b {batch_events}"
+        run_command = f"./simulation_workflow.py -z {element} -a {isotope} -e {total_events} -b {batch_events}"
 
         returned_value = subprocess.call(run_command, shell=True)
 

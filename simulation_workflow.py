@@ -194,7 +194,6 @@ def create_workflow(args, submit_sim=True):
                 Namespace.CONDOR,
                 key="+SingularityImage",
                 value='"/cvmfs/singularity.opensciencegrid.org/cnatzke/ntuple2eventtree_2photon:latest"')
-            # .add_condor_profile(priority="1")
     
         wf.add_jobs(simulation_job)
         wf.add_jobs(ntuple_job)
@@ -244,7 +243,7 @@ def main():
 
     args = parse_inputs()
 
-    create_workflow(args, submit_sim=False)
+    create_workflow(args, submit_sim=True)
 
 
 if __name__ == "__main__":
